@@ -1,6 +1,6 @@
-// Command to compile : make all
-// Command to clean : make clean
-// To run : ./proj2 input.txt
+// Command to compile - make all
+// Command to clean - make clean
+// To run - ./proj2 input.txt
 // input.txt is the file which has the details of the songs
 
 all: lab7
