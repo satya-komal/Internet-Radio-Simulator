@@ -18,3 +18,5 @@ QUIT
 3.PLAY command simulates the playing of songs(not the actual songs) by advancing a virtual clock.
 4.PLAY followed by an integer a, plays the top a no of songs stored in the heap data structure.
 5.QUIT command exits the program.
+
+To compile and run the program:  Refer to the makefile
