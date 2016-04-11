@@ -1,3 +1,8 @@
+// Command to compile : make all
+// Command to clean : make clean
+// To run : ./proj2 input.txt
+// input.txt is the file which has the details of the songs
+
 all: lab7
 
 lab7:	Pandora.o	Time.o	Song.o	Library.o	
